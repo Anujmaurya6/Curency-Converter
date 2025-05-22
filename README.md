@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Currency Converter - README</title>
-</head>
 <body>
 
 <h1>Currency Converter</h1>
